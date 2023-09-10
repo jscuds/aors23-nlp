@@ -1,0 +1,16 @@
+datasets
+gensim
+jupyterlab
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+sentencepiece
+textblob
+torch
+transformers
+tqdm
+vaderSentiment
+wandb
+wordcloud
